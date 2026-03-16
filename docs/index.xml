@@ -10,7 +10,7 @@
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
     <description><![CDATA[ LLM的变化日新月异，每天都有新的东西诞生，从2023年ChatGPT的出示，到2026年出OpenClaw的爆火，现在学生，研究员的生活已经离不开大模型了。于是乎也有越来越多的人想要了解这一门技术，但是从何开始呢？ 可能有了解我的同学们，和我一起学习过Stanford CS336: LLM from Scratch。 确实，这是一门很好的课程，从数据搭建开始，到模型的Pre-Training， Post-Training， 以及如何高效的利用GPU，Parallelism的机制，到如何高效的Inference，并且Evaluation。不过LLM的扩展面还是很广的，有许多的内容课程中都没有提... ]]></description>
-    <pubDate>Mon, 16 Mar 2026 06:58:18 GMT</pubDate>
+    <pubDate>Mon, 16 Mar 2026 07:41:42 GMT</pubDate>
   </item><item>
     <title>Muon</title>
     <link>https://quartz.jzhao.xyz/Optimizer/Muon</link>
